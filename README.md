@@ -106,7 +106,7 @@
 ---
 
 <p align = "center">
-	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="gaa.png" width="400px" >
+	<a href="https://github.com/kevin103012"> <img alt = "Quote" src="gaa.png" width="400px" >
 </p>
 
 </br></br>

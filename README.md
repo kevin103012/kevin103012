@@ -7,10 +7,9 @@
 
 <br><br>
 
-- :Estudios: Desarrollador Junior FullStack Actualmente Cursando el tercer ciclo de Ing de Software en el instituto Servicio Nacional de Adiestramiento en Trabajo Industrial.
-- :Datos:Soy un PROGRAMADOR apasionado que siempre anda en busca de mas conocimiento , suelo desarrollar constantes practicas en paginas web , como codecrafters ,CodeWars, etc...
-- :Frase: El conocimiento es Poder :u.
-- :Objetivo: Aprender, TODO  lo posible , TODO lo relacionado a las tecnologias que practico , soy de las personas que creen que todo lo que aprendes, por más insignificante que parezca , es útil.
+Estudios: Desarrollador Junior FullStack Actualmente Cursando el tercer ciclo de Ing de Software en el instituto Servicio Nacional de Adiestramiento en Trabajo Industrial.
+Datos:Soy un PROGRAMADOR apasionado que siempre anda en busca de mas conocimiento , suelo desarrollar constantes practicas en paginas web , como codecrafters ,CodeWars, etc...
+Objetivo: Aprender, TODO  lo posible , TODO lo relacionado a las tecnologias que practico , soy de las personas que creen que todo lo que aprendes, por más insignificante que parezca , es útil.
 <br>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Contactame

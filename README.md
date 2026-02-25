@@ -1,22 +1,77 @@
-<h1 align="center">
-  Hola 👋, Soy Kevin De la Cruz
-</h1>
+<h1 align="center">Hola 👋, Soy Kevin De la Cruz</h1>
 
 <h3 align="center">
-🚀 Junior FullStack Developer | Estudiante de Ingeniería de Software | Apasionado por la tecnología
+💻 Junior FullStack Developer | 🚀 Software Engineering Student | 🔥 En constante evolución
 </h3>
+
+<p align="center">
+  <a href="https://github.com/kevin103012">
+    <img src="https://komarev.com/ghpvc/?username=kevin103012&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  </a>
+</p>
 
 ---
 
 ## 👨‍💻 Sobre mí
 
-🎓 Estudiante de **Ingeniería de Software** (3er ciclo) en el Servicio Nacional de Adiestramiento en Trabajo Industrial (SENATI).  
-💻 Desarrollador Junior FullStack en constante aprendizaje.  
-🔥 Apasionado por mejorar cada día mis habilidades técnicas y mi lógica de programación.  
-📚 Practico constantemente en plataformas como CodeWars y otros entornos de entrenamiento.  
-🎯 Mi objetivo es dominar las tecnologías que utilizo y convertirme en un desarrollador altamente competente.
+🎓 Estudiante de Ingeniería de Software (3er ciclo)  
+💻 Desarrollador FullStack en formación  
+📚 Practicando constantemente estructuras de datos y lógica  
+🔥 Enfocado en disciplina, consistencia y mejora continua  
 
-> Creo firmemente que todo conocimiento suma, incluso el más pequeño detalle.
+> “El conocimiento es poder, pero la práctica constante es dominio.”
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Lenguajes
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,python" />
+</p>
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
+
+### 🗄️ Backend & DB
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### 🔧 Herramientas
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse,linux" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kevin103012&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevin103012&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kevin103012&theme=tokyonight" />
+</p>
+
+---
+
+## 🎯 Actualmente
+
+- 🚀 Mejorando arquitectura backend
+- 🧠 Profundizando en estructuras de datos
+- 💡 Construyendo proyectos FullStack reales
 
 ---
 
@@ -26,61 +81,7 @@
   <a href="mailto:kcajamarca74@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/kevin103012">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
   <a href="https://www.linkedin.com/in/kevin-de-la-cruz-570a2023a/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/kevin.rdc_/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
 </p>
-
----
-
-## 🛠️ Tecnologías y Herramientas
-
-### 💻 Lenguajes
-- Java
-- JavaScript
-- Python
-
-### 🎨 Frontend
-- HTML5
-- CSS3
-- React
-- JavaScript
-
-### 🗄️ Backend & Base de Datos
-- Java
-- MySQL
-
-### 🔧 Herramientas
-- Git
-- GitHub
-- Google Sheets
-
-### 🧰 IDEs
-- Visual Studio Code
-- NetBeans
-- IntelliJ IDEA
-- Eclipse
-
-### 🖥️ Sistemas Operativos
-- Ubuntu
-- Windows
-
----
-
-## 📌 Actualmente
-
-- 📚 Aprendiendo mejores prácticas de arquitectura
-- 🧠 Mejorando lógica y estructuras de datos
-- 🚀 Desarrollando proyectos personales FullStack
-
----
-
-## 💡 Frase personal
-
-> "La disciplina supera al talento cuando el talento no es disciplinado."

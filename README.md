@@ -1,7 +1,7 @@
-<h1 align="center">Hola 👋, Soy Kevin De la Cruz</h1>
+<h1 align="center">Hola , Soy Kevin De la Cruz</h1>
 
 <h3 align="center">
-💻 Junior FullStack Developer | 🚀 Software Engineering Student | 🔥 En constante evolución
+ Junior FullStack Developer |  Software Engineering Student | En Constante Mejora
 </h3>
 
 <p align="center">
@@ -12,54 +12,43 @@
 
 ---
 
-## 👨‍💻 Sobre mí
+## Sobre mí
 
-🎓 Estudiante de Ingeniería de Software (3er ciclo)  
-💻 Desarrollador FullStack en formación  
-📚 Practicando constantemente estructuras de datos y lógica  
-🔥 Enfocado en disciplina, consistencia y mejora continua  
+   Estudiante de Ingeniería de Software (3er ciclo)  
+   Desarrollador FullStack en formación  
+   Practicando constantemente estructuras de datos y lógica  
+   Enfocado en disciplina, consistencia y mejora continua  
 
 > “El conocimiento es poder, pero la práctica constante es dominio.”
 
 ---
 
-## 🛠️ Tech Stack
+##   Stack Tecnologico
 
-### 💻 Lenguajes
+###  Lenguajes
 <p>
   <img src="https://skillicons.dev/icons?i=java,js,python" />
 </p>
 
-### 🎨 Frontend
+###  Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react" />
 </p>
 
-### 🗄️ Backend & DB
+###  Backend & DB
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-### 🔧 Herramientas
+###  Herramientas
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse,linux" />
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kevin103012&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevin103012&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
-## 🔥 Streak Stats
+##   Algunas estadisticas
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=kevin103012&theme=tokyonight" />
@@ -67,12 +56,12 @@
 
 ---
 
-## 🎯 Actualmente
+##  Actualmente
 
-- 🚀 Mejorando arquitectura backend
-- 🧠 Profundizando en estructuras de datos
-- 💡 Construyendo proyectos FullStack reales
-
+-  Mejorando arquitectura backend
+-  Profundizando en estructuras de datos
+-  Construyendo proyectos FullStack reales
+-  Realizando Practicas Profesionales
 ---
 
 ## 🌐 Conecta conmigo

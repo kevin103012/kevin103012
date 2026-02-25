@@ -46,10 +46,7 @@ Estudiante de Ingeniería de Software (3er ciclo) con enfoque en disciplina y me
 
 ## Estadísticas
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kevin103012&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevin103012&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</div>
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=kevin103012&theme=tokyonight&hide_border=true" />
